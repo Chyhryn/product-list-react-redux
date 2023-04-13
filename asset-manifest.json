@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/product-list-react-redux/static/css/main.57a28dfd.css",
+    "main.js": "/product-list-react-redux/static/js/main.7ae0b82f.js",
+    "index.html": "/product-list-react-redux/index.html",
+    "main.57a28dfd.css.map": "/product-list-react-redux/static/css/main.57a28dfd.css.map",
+    "main.7ae0b82f.js.map": "/product-list-react-redux/static/js/main.7ae0b82f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a28dfd.css",
+    "static/js/main.7ae0b82f.js"
+  ]
+}

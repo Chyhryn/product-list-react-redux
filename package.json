@@ -2,7 +2,7 @@
   "name": "product-list-react-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Chyhryn.github.io/product-list-react-redux/",
+  "homepage": "https://chyhryn.github.io/product-list-react-redux/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.5",
